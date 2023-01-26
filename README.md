@@ -153,3 +153,5 @@
 <td><div class="separator" style="clear: both;"><a href="https://www.vededo.com/embed/truck-factory-for-kids-1699020.html" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="200" data-original-width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IxXEc7QCh1DWpgsHPpheXHupCv9dnVeZLEPI5ES-AqQqoUa4LZvbqW5uG0jaxUxwbALhBw6VftO80p1YUBTioY4YPaqZNoYmQ_rbjmAWatnkzaNIrz4dqb6C_-jpK1qlbfltS60hv-fBpDaAlYyl9AYMUvKbqAPuSiePooj339HbAcQVDrLg5XzSuw/s1600/9.png" /></a></div></td>
 </tr>
 </tbody></table>
+
+<a href='https://play.google.com/store/apps/details?id=com.sakura.props.id.digitama' title='Sakura Props ID'>Sakura School simulator</a>
